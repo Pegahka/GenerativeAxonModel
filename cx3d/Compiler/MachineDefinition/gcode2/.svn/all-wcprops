@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/haurian/!svn/ver/141/compiler/MachineDefinition/gcode2
+END
+Machine.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/haurian/!svn/ver/141/compiler/MachineDefinition/gcode2/Machine.class
+END
+SomaMachine.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/haurian/!svn/ver/141/compiler/MachineDefinition/gcode2/SomaMachine.class
+END
+GValue.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/haurian/!svn/ver/96/compiler/MachineDefinition/gcode2/GValue.class
+END
+GVector.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/haurian/!svn/ver/96/compiler/MachineDefinition/gcode2/GVector.class
+END
+GTokenCollection.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/haurian/!svn/ver/141/compiler/MachineDefinition/gcode2/GTokenCollection.class
+END
+NeuriteMachine.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/haurian/!svn/ver/141/compiler/MachineDefinition/gcode2/NeuriteMachine.class
+END
+GBoolean.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/haurian/!svn/ver/96/compiler/MachineDefinition/gcode2/GBoolean.class
+END
+Test.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/haurian/!svn/ver/96/compiler/MachineDefinition/gcode2/Test.class
+END
+GToken.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/haurian/!svn/ver/96/compiler/MachineDefinition/gcode2/GToken.class
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/haurian/!svn/ver/96/compiler/MachineDefinition/gcode2/Test.java
+END
+notgcode.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/haurian/!svn/ver/141/compiler/MachineDefinition/gcode2/notgcode.java
+END

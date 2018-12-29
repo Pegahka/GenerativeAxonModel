@@ -1,0 +1,34 @@
+10
+
+dir
+241
+https://svn.ini.uzh.ch/repos/haurian/compiler/src/DataStructure
+https://svn.ini.uzh.ch/repos/haurian
+
+
+
+2012-03-27T10:15:12.360437Z
+141
+haurian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7814ad48-85e8-11e0-be64-5f2281a74738
+
+javaDNA
+dir
+
+printer
+dir
+

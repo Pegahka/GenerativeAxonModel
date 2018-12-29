@@ -1,0 +1,123 @@
+10
+
+dir
+241
+https://svn.ini.uzh.ch/repos/haurian/compiler/src
+https://svn.ini.uzh.ch/repos/haurian
+
+
+
+2012-03-27T10:15:12.360437Z
+141
+haurian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7814ad48-85e8-11e0-be64-5f2281a74738
+
+Analysis
+dir
+
+Compiler
+dir
+
+ConherenceChecker
+dir
+
+DataStructure
+dir
+
+Draw
+dir
+
+FlattenMachines
+dir
+
+Inheritance
+dir
+
+MachineCallTree
+dir
+
+NW.java
+file
+
+
+
+
+2013-06-06T08:33:40.000000Z
+5819c9555a8dca247ad7663a6f1a226d
+2012-03-27T10:15:12.360437Z
+141
+haurian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2398
+
+NeedlemanWunsch.java
+file
+
+
+
+
+2013-06-06T08:33:40.000000Z
+4ad3010299329f3599ff298589605dc5
+2012-03-27T10:15:12.360437Z
+141
+haurian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3159
+
+Test
+dir
+
