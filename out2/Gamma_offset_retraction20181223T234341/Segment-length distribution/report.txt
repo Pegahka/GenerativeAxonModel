@@ -1,0 +1,88 @@
+================== lengthfrequencies 1 =================
+ 
+=========================================================== 
+ 
+\begin{tabular}{| c | c | c | c | c | c | c | c | c | c | c | c |} 
+\hline 
+plg  &   plr  &   gSh    &    gSc   &   rSh   &    rSc    &     rsSh   &   rsSc    &   gf     &   rf   &   b       &   os   \\ 
+\hline 
+0.00    &    0.00   &  1.26 &  21.18  &  1.69    &     17.82   &   14.99 &   11.29  &   0.11  &   0.58  &  0.63  &   1.76  \\ 
+\hline 
+\end{tabular} 
+================== lengthfrequencies 2 =================
+ 
+=========================================================== 
+ 
+\begin{tabular}{| c | c | c | c | c | c | c | c | c | c | c | c |} 
+\hline 
+plg  &   plr  &   gSh    &    gSc   &   rSh   &    rSc    &     rsSh   &   rsSc    &   gf     &   rf   &   b       &   os   \\ 
+\hline 
+0.00    &    0.00   &  1.25 &  21.22  &  1.63    &     19.46   &   14.99 &   13.28  &   0.09  &   0.61  &  0.62  &   1.78  \\ 
+\hline 
+\end{tabular} 
+================== lengthfrequencies 3 =================
+ 
+=========================================================== 
+ 
+\begin{tabular}{| c | c | c | c | c | c | c | c | c | c | c | c |} 
+\hline 
+plg  &   plr  &   gSh    &    gSc   &   rSh   &    rSc    &     rsSh   &   rsSc    &   gf     &   rf   &   b       &   os   \\ 
+\hline 
+0.00    &    0.00   &  1.26 &  21.22  &  1.66    &     17.83   &   14.18 &   11.29  &   0.14  &   0.59  &  0.68  &   1.76  \\ 
+\hline 
+\end{tabular} 
+================== lengthfrequencies 4 =================
+ 
+=========================================================== 
+ 
+\begin{tabular}{| c | c | c | c | c | c | c | c | c | c | c | c |} 
+\hline 
+plg  &   plr  &   gSh    &    gSc   &   rSh   &    rSc    &     rsSh   &   rsSc    &   gf     &   rf   &   b       &   os   \\ 
+\hline 
+0.00    &    0.00   &  1.26 &  21.18  &  1.69    &     19.46   &   14.99 &   13.28  &   0.11  &   0.62  &  0.66  &   1.77  \\ 
+\hline 
+\end{tabular} 
+================== lengthfrequencies 5 =================
+ 
+=========================================================== 
+ 
+\begin{tabular}{| c | c | c | c | c | c | c | c | c | c | c | c |} 
+\hline 
+plg  &   plr  &   gSh    &    gSc   &   rSh   &    rSc    &     rsSh   &   rsSc    &   gf     &   rf   &   b       &   os   \\ 
+\hline 
+0.00    &    0.00   &  1.23 &  21.28  &  1.69    &     17.48   &   14.98 &   11.29  &   0.11  &   0.61  &  0.63  &   1.76  \\ 
+\hline 
+\end{tabular} 
+================== lengthfrequencies 6 =================
+ 
+=========================================================== 
+ 
+\begin{tabular}{| c | c | c | c | c | c | c | c | c | c | c | c |} 
+\hline 
+plg  &   plr  &   gSh    &    gSc   &   rSh   &    rSc    &     rsSh   &   rsSc    &   gf     &   rf   &   b       &   os   \\ 
+\hline 
+0.00    &    0.00   &  1.26 &  21.21  &  1.69    &     17.80   &   15.02 &   11.30  &   0.11  &   0.61  &  0.63  &   1.75  \\ 
+\hline 
+\end{tabular} 
+================== lengthfrequencies 7 =================
+ 
+=========================================================== 
+ 
+\begin{tabular}{| c | c | c | c | c | c | c | c | c | c | c | c |} 
+\hline 
+plg  &   plr  &   gSh    &    gSc   &   rSh   &    rSc    &     rsSh   &   rsSc    &   gf     &   rf   &   b       &   os   \\ 
+\hline 
+0.00    &    0.00   &  1.23 &  21.18  &  1.75    &     17.85   &   14.99 &   11.29  &   0.11  &   0.59  &  0.66  &   1.76  \\ 
+\hline 
+\end{tabular} 
+================== lengthfrequencies 8 =================
+ 
+=========================================================== 
+ 
+\begin{tabular}{| c | c | c | c | c | c | c | c | c | c | c | c |} 
+\hline 
+plg  &   plr  &   gSh    &    gSc   &   rSh   &    rSc    &     rsSh   &   rsSc    &   gf     &   rf   &   b       &   os   \\ 
+\hline 
+0.00    &    0.00   &  1.26 &  21.22  &  1.75    &     19.46   &   14.99 &   13.28  &   0.13  &   0.59  &  0.65  &   1.76  \\ 
+\hline 
+\end{tabular} 
