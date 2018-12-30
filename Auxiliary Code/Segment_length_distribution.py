@@ -35,7 +35,7 @@ def find_children_set(segment,terminal,inter,level=0):
             new_level = level+1
             find_children_set(child,terminal,inter,new_level)
 
-    if level>0:
+    if level>1:
         if len(segment.children)==0:
             terminal.append(segment)
         else:
@@ -82,7 +82,7 @@ for axon in cell:
     trees.append(tree)
 
     n+=1
-    # if n==50:         ## Can limit the number of tree shown with this
+    # if n==2:         ## Can limit the number of tree shown with this
     #     break
 
 segments_lengths = []
@@ -109,7 +109,9 @@ term_lengths = np.array(term_lengths)
 
 segments_lengths = segments_lengths[segments_lengths>1]
 inter_lengths = inter_lengths[inter_lengths>1]
+inter_lengths = inter_lengths[inter_lengths<900]
 term_lengths = term_lengths[term_lengths>1]
+term_lengths = term_lengths[term_lengths<900]
 
 print('Num segments: ',len(segments_lengths))
 print('Num intermediate segments: ',len(inter_lengths))
@@ -144,6 +146,10 @@ plt.xlabel("Segment-length [microns]")
 plt.tight_layout()
 plt.show()
 plot.savefig('Terminal_Intermediate.eps', format='eps', dpi=100)
+
+print(len(inter_lengths))
+print(len(term_lengths))
+
 
 print(ks_2samp(inter_lengths, term_lengths))
 
