@@ -58,6 +58,17 @@ paramter-sets optimized by the GA (e.g. 3, to sample from the 3 best solutions)
 
 Now, the same number of florets as selected in the compute.m step are generated, relevant plots are created and the statistics are saved in the **out** folder.
 
+An additional function allows for **the visualization of the dendrograms**:
+
+```
+dendrogram_visualization.m
+```
+This functiona allows you visualize florets from either the biological or the generated data. The user
+can select the visualization of all or of specific dendrograms, and the file format (fig, jpg, pdf) to save
+the visualization. The respective files are saved in the ''graphs'' subfolder (for instance under 'BiologicalDendrograms'
+for the biological data).
+
+
 ### Output: Visualizations and parameters
 
 Each run of the graphs.m files creates a timestamped folder with the name of the selected model in the "out" folder.
