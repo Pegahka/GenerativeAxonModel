@@ -68,7 +68,7 @@ can select the visualization of all or of specific dendrograms, and the file for
 the visualization. The respective files are saved in the ''graphs'' subfolder (for instance under 'BiologicalDendrograms'
 for the biological data).
 
-![](https://github.com/Pegahka/Florets/blob/master/31871.pdf)
+![](https://github.com/Pegahka/Florets/blob/master/Dendro.png)
 
 ### Output: Visualizations and parameters
 
