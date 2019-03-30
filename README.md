@@ -108,7 +108,12 @@ The upper and lower bounds of these models are set in the init.mat files, in the
 
 Additional conditions can be set for the parameters as e.g. 2*p(bifuraction) + p(growth) < 1 which can prevent infinite growth in the case of a Galton-Watson model (primitive length = 1).
 
+### Useful software
 
+* Cx3D is a tool for simulating the growth of cortex in 3D developed at the Institute of Neuroinformatics of the University of Zürich and ETH Zürich
+https://www.ini.uzh.ch/~amw/seco/cx3d/
+* For researchers interested in further extensions of the code, a valuable resource might be the TREES toolbox which allows the editing, the generation and the visualization as well as the analysis of neuronal trees.
+http://www.treestoolbox.org/index.html
 
 ![](https://github.com/Pegahka/Florets/blob/master/Axon2.png)
 
