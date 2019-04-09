@@ -11,9 +11,9 @@ function ret = divergenceWrapper(param,settings,div)
 
     % output:
 
-    % ret: the digvergence between real data and the data generated using
+    % ret: the divergence between real data and the data generated using
     % the parameters from the params array with the generator settings set
-    % in the settings stucture.
+    % in the settings structure.
 
     % parameter values are set in structure, in a format accepted by
     % generateFloret function.
@@ -32,7 +32,16 @@ function ret = divergenceWrapper(param,settings,div)
     gp.real_data = settings.real_data;
 
     % fitness value
-    [data,ret] = divergenceresult(gp);
+    [data,ret] = divergenceresult(gp); %It is in <main>/compute/divergenceresult.m
+                                       %It generates multiple florets with the parameters supplied by GA ('param' array)
+                                       %Then compares these generated florets
+                                       %with real data (which comes from
+                                       %init.mat->settings->gp).
+                                       % ret is output of this function. It is tried to be minimized by GA.
+                                       % Eventual 'ret' (calculated below) is weighted sum of two divergence values. 
+                                       % One is the 'ret' here. Other is about asymetries (can be seen below).
+                                       % So the 'ret' here could have been
+                                       % named differently.
     if size(data) > 0
         if isfield(settings,'asymmetry')
             if (isfield(settings,'weightedasymmetry') && settings.weightedasymmetry)
