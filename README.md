@@ -1,4 +1,4 @@
-# A Generative Model for Axonal Ramifications - ReadME
+# A Generative Model for Ocular Dominance Axons - ReadME
 
 This document provides instruction to run a generative axonal model implemented in MATLAB. 
 
