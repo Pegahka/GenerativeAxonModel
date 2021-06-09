@@ -1,12 +1,14 @@
 # A Generative Model for Ocular Dominance Axons - ReadME
 
+The model is described in detail in Fard Kassraian P, Pfeiffer M, Bauer R. A Generative Growth Model for Thalamocortical Axonal Branching in Primary Visual Cortex. bioRxiv. 2018 Jan 1:288522.
+
 This document provides instruction to run a generative axonal model implemented in MATLAB. 
 
 The model creates axonal morphologies based on simple growth steps such as elongation, bifurcation and retraction and
 matches statistics of biological data with high accuracy. The code was in particular developed to match
 a variety of statistics of thalamocortical arborizations in cat layer 4 and 6 of area 17.
 
-The model is described in detail in Fard Kassraian P, Pfeiffer M, Bauer R. A Generative Growth Model for Thalamocortical Axonal Branching in Primary Visual Cortex. bioRxiv. 2018 Jan 1:288522.
+
 
 **XML-File with axonal data courtesy of Rodney J. Douglas, K.A.C. Martin and John Anderson, Institute of Neuroinformatics, University and ETH Zurich.**
 
