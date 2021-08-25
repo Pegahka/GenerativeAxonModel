@@ -6,7 +6,7 @@ This model of axonal growth is described in detail in:
 
 The code creates axonal morphologies based on simple growth steps such as elongation, bifurcation and retraction and
 matches statistics of biological data with high accuracy. The code was in particular developed to match
-a variety of statistics of thalamocortical arborizations in cat layer 4 and 6 of area 17.
+a variety of statistics of thalamocortical arborizations in cat layers 4 and 6 of area 17.
 
 
 
