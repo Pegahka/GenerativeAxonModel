@@ -2,7 +2,7 @@
 
 This model of axonal growth is described in detail in: 
 
-**Fard Kassraian P, Pfeiffer M, Bauer R. A Generative Growth Model for Thalamocortical Axonal Branching in Primary Visual Cortex, PLoS computational biology, 2020
+**Fard Kassraian P, Pfeiffer M, Bauer R. A Generative Growth Model for Thalamocortical Axonal Branching in Primary Visual Cortex, PLoS computational biology, 2020**
 
 This document provides instruction to run a generative axonal model implemented in MATLAB. 
 
