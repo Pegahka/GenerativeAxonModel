@@ -4,9 +4,7 @@ This model of axonal growth is described in detail in:
 
 **Fard Kassraian P, Pfeiffer M, Bauer R. A Generative Growth Model for Thalamocortical Axonal Branching in Primary Visual Cortex, PLoS computational biology, 2020**
 
-This document provides instruction to run a generative axonal model implemented in MATLAB. 
-
-The model creates axonal morphologies based on simple growth steps such as elongation, bifurcation and retraction and
+The code creates axonal morphologies based on simple growth steps such as elongation, bifurcation and retraction and
 matches statistics of biological data with high accuracy. The code was in particular developed to match
 a variety of statistics of thalamocortical arborizations in cat layer 4 and 6 of area 17.
 
