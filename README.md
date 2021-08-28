@@ -14,8 +14,8 @@ a variety of statistics of thalamocortical arborizations in cat layers 4 and 6 o
 
 ### Prerequisites
 
-The code was implemented with MATLAB 2016b, should however be compatible with other versions of MATLAB.
-Version 6.9 of the MATLAB Parallel Computing Toolbox should be installed however to run the following code.
+The code was implemented with MATLAB 2016b though it should be compatible with other MATLAB versions as well.
+Version 6.9 of the MATLAB Parallel Computing Toolbox should be installed.
 
 ### Running the generative model
 
