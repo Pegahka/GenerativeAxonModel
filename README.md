@@ -1,6 +1,6 @@
 # A Generative Model for Ocular Dominance Axons - ReadME
 
-This model of axonal growth is described in detail in: 
+This code corresponds to a generative model of axonal growth as described in detail in: 
 
 **Fard Kassraian P, Pfeiffer M, Bauer R. A Generative Growth Model for Thalamocortical Axonal Branching in Primary Visual Cortex, PLoS computational biology, 2020**
 
