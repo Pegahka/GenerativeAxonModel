@@ -1,4 +1,4 @@
-# A Generative Model for Ocular Dominance Axons - ReadME
+# A Generative Model for Axonal Growth in primary visual cortex - ReadME
 
 This code corresponds to a generative model of axonal growth as described in: 
 
