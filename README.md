@@ -12,7 +12,7 @@ a variety of statistics of thalamocortical arborizations in cat layers 4 and 6 o
 
 **XML-File with axonal data courtesy of Rodney J. Douglas, K.A.C. Martin and John Anderson, Institute of Neuroinformatics, University and ETH Zurich.**
 
-### Prerequisites
+### Software Prerequisites
 
 The code was implemented with MATLAB 2016b though it should be compatible with other MATLAB versions as well.
 Version 6.9 of the MATLAB Parallel Computing Toolbox should be installed.
