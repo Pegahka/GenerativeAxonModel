@@ -10,7 +10,7 @@ a variety of statistics of thalamocortical arborizations in cat layers 4 and 6 o
 
 
 
-**XML-File with axonal data courtesy of Rodney J. Douglas, K.A.C. Martin and John Anderson, Institute of Neuroinformatics, University and ETH Zurich.**
+**XML-File with axonal data courtesy of Rodney J. Douglas, K.A.C. Martin and John Anderson, Institute of Neuroinformatics, University and ETH Zurich (A canonical microcircuit for neocortex, 1989).**
 
 ### Software Prerequisites
 
