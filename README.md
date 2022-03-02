@@ -1,4 +1,4 @@
-# A Generative Model for Axonal Growth in primary visual cortex - ReadME
+# A Generative Model for Canonical Axonal Growth in Primary Visual Cortex - ReadME
 
 This code corresponds to a generative model of axonal growth as described in: 
 
